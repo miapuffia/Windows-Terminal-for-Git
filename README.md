@@ -1,7 +1,9 @@
 # Windows-Terminal-for-Git
 Replaces the MinGW Git Bash window with Windows Terminal
 
-1. Add the Git Bash profile to Windows Terminal. I used the folowing:
+1. Add the Git Bash profile to Windows Terminal. This can be edited in Settings -> Open JSON file
+
+I used the folowing:
 
 ```javascript
 "profiles": 
